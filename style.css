@@ -1,0 +1,29 @@
+input{
+    width: 150px;
+    height: 100px;
+    font-size: 65px;
+    border: 2px solid #751C10;
+    color:#B82C1A;
+    background-color: darkred;
+    font-weight: 500;
+    font-family: 'Roboto Slab', serif;
+    padding: 10px;
+    border-radius: 100px;
+    border-style: none;
+    align-items: center;
+    
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+    color:#360D07;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 65px;
+
+}
+
+#myform{
+    margin-left: 25%;
+    margin-top: 20px;
+}
